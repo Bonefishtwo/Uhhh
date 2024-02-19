@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title> Avatar Story </title>
+		</head>
+		<h1> Wizards of the Coast</h1>
+		<body>
+			<h2> Lecture Series Presents DUSTIN TRAMMEL</h2>
+			<img src= "Dtrammel.jpg "img> 
+			<p> Dustin Trammel wants to live in a world where magic would want to return to
+			as a Fabrication Engineer, he has been honored in many museums.
+			When he is not becoming a legend, you can find him and his first collaboration as bonefishtwo
+			hitting the silver screen on 04/29/3111.
+			Discover my implementation of a Vulcan mind meld mating with a 3d printer here at... 
+			i will be a part of every website at this address <a href = "http://localhost:2435/storage/emulated/0/Documents/Avatar+hw/mysite.txt" >Enter< </a> 
+			RSVP by Friday the 16th, 2024.
+			
+			bonefishtwo@gmail.com, 30038728@cc.peralta.edu </p>
+			</body>
+			</html>
+			
+			
